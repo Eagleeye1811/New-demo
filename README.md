@@ -1,2 +1,2 @@
 # New-demo
-Way to learn it
+Way to learn it!
